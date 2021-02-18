@@ -1,2 +1,2 @@
 # Diabetes-Checker
-Using linear regresssion 
+Using linear regresssion and plotting the mean squared error
